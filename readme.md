@@ -15,8 +15,10 @@ pip install pyfiglet
 Store your favorite songs in selection.txt file every line is just for one song including singer name and some keywords from song`s name.
 
 #### For Example :
+```bash
 Michael Jackson beat it
 justin bieber love
+```
 ...
 
 ## License
