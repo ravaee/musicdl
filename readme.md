@@ -18,8 +18,12 @@ Store your favorite songs in selection.txt file every line is just for one song 
 ```bash
 Michael Jackson beat it
 justin bieber love
-```
 ...
+```
+and then run musicdl.py and enjoy from music.
+
+## Python version
+Compatible with python 2.7
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
