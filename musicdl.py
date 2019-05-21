@@ -57,12 +57,18 @@ def download(urls,names):
             print names[index] + " not found trying others ..."
 
 
-import pyfiglet
 
-ascii_banner = pyfiglet.figlet_format("Mohamad Ravaei")
-print("\n \n")
+
+
+
+
 print("================================================================================ \n\n")
-print(ascii_banner)
+print(" __  __       _                               _   ____                       _")
+print("|  \/  | ___ | |__   __ _ _ __ ___   __ _  __| | |  _ \ __ ___   ____ _  ___(_)")
+print("| |\/| |/ _ \| '_ \ / _` | '_ ` _ \ / _` |/ _` | | |_) / _` \ \ / / _` |/ _ \ |")
+print("| |  | | (_) | | | | (_| | | | | | | (_| | (_| | |  _ < (_| |\ V / (_| |  __/ |")
+print("|_|  |_|\___/|_| |_|\__,_|_| |_| |_|\__,_|\__,_| |_| \_\__,_| \_/ \__,_|\___|_|")
+print("\n \n")
 print("Email : ravaeimohamad@gmail.com")
 print("Instagram : https://www.instagram.com/mohamad_ravaei/")
 print("linkedin : https://www.linkedin.com/in/mohamad-ravaei-4abb45106/")
